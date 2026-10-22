@@ -20,6 +20,14 @@ eV Sans has no Reserved Font Name.
 ChangeLog
 ---------
 
+2026-10-22 (eatingVoltage) eV Sans 1.001
+  - The hooks of g and j are longer: they run on past their lowest point and end cut square to the stroke.
+  - J sits on the baseline (Jost's reaches below it), its hook as short as j's, and is spaced like a letter
+    with a round side; Jost's kerning that kept g, j and q away from its hook is gone. In Ĳ the J moves off the I.
+  - y's tail is straight again, its end cut square to the stroke.
+  - j keeps its place and its dot is over its stem again: in 1.000 the shorter hook had moved the stem
+    towards the letter before, and the dot only half as far.
+
 2026-10-22 (eatingVoltage) eV Sans 1.000
   Each weight is made from the matching instance of Jost's variable font. Changes:
   - A has no crossbar (Λ), in every A with an accent too.
@@ -47,4 +55,4 @@ Owen Earl and The Jost Project Authors, for Jost*, which eV Sans is built from.
 
 N: eatingVoltage
 W: https://github.com/EatingVoltage/eV-Sans
-D: eV Sans 1.000
+D: eV Sans 1.000, 1.001

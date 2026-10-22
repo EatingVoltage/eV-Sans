@@ -48,8 +48,9 @@ you make with it, carries no conditions at all.
 ## How it differs from Jost
 
 eV Sans keeps Jost's skeleton and changes how it looks: the A without a crossbar, flat-cut points, an upright M, a
-larger x-height, wider and narrower capitals, looser spacing, a single-storey a, curved endings on g, j, t and y, one
-stroke width everywhere, square dots and a cap-height Ω. [FONTLOG.txt](FONTLOG.txt) lists every change.
+larger x-height, wider and narrower capitals, looser spacing, a single-storey a, a J on the baseline, shorter hooks on
+g, j and J, a foot on the t, a straight y, one stroke width everywhere, square dots and a cap-height Ω.
+[FONTLOG.txt](FONTLOG.txt) lists every change.
 
 ## License
 
