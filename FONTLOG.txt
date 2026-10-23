@@ -10,7 +10,8 @@ Basic Font Information
 eV Sans is the typeface of eatingVoltage. It is a Modified Version of Jost* 3.7 by Owen Earl
 (indestructible type*), https://github.com/indestructible-type/Jost, commit 35f141c.
 
-It comes in four upright weights, Light (300), Regular (400), Medium (500) and Bold (700), as OTF, TTF and WOFF2.
+It comes in three upright weights, Light (300), Regular (400) and Bold (700, drawn from Jost's 500), as OTF, TTF
+and WOFF2.
 Its characters are Latin for the European languages, figures, fractions, punctuation, currency signs and
 Δ Ω µ π. Jost's Cyrillic and Greek letters are left out.
 
@@ -19,6 +20,10 @@ eV Sans has no Reserved Font Name.
 
 ChangeLog
 ---------
+
+2026-10-23 (eatingVoltage) eV Sans 1.002
+  - Bold is lighter: it is 1.001's Medium, unchanged in shape, spacing and kerning, now named Bold. 1.001's
+    Bold was too heavy and is gone, and with it the Medium; eV Sans has three weights.
 
 2026-10-22 (eatingVoltage) eV Sans 1.001
   - The hooks of g and j are longer: they run on past their lowest point and end cut square to the stroke.
@@ -55,4 +60,4 @@ Owen Earl and The Jost Project Authors, for Jost*, which eV Sans is built from.
 
 N: eatingVoltage
 W: https://github.com/EatingVoltage/eV-Sans
-D: eV Sans 1.000, 1.001
+D: eV Sans 1.000, 1.001, 1.002
