@@ -50,8 +50,9 @@ you make with it, carries no conditions at all.
 ## How it differs from Jost
 
 eV Sans keeps Jost's skeleton and changes how it looks: the A without a crossbar, flat-cut points, an upright M, a
-larger x-height, wider and narrower capitals, looser spacing, a single-storey a, a J on the baseline, shorter hooks on
-g, j and J, a foot on the t, a straight y, one stroke width everywhere, square dots and a cap-height Ω.
+larger x-height, ascenders on the cap height, wider and narrower capitals, looser spacing, a single-storey a, a J on
+the baseline, shorter hooks on g, j and J, a foot on the t, a straight y, one stroke width everywhere, curves a full
+stroke wide where they meet a stem, square dots, a cap-height Ω, an equilateral Δ and a ¶ that smiles.
 [FONTLOG.txt](FONTLOG.txt) lists every change.
 
 ## License

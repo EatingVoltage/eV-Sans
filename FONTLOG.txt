@@ -21,6 +21,17 @@ eV Sans has no Reserved Font Name.
 ChangeLog
 ---------
 
+2026-10-25 (eatingVoltage) eV Sans 1.003
+  - Curves stay a full stroke wide where they meet a stem; Jost thins them there. In a b d g h m n p q r u,
+    ŋ þ µ and their accented forms.
+  - The ascenders of b d f h k l ß þ end on the cap height (they rose 80 units above it), and t, ƒ and the
+    other small letters reaching above the x-height come down in proportion. The dots of i and j stay where
+    they were, above the ascenders.
+  - Δ (and ∆) is an equilateral triangle on the baseline, its apex pointed on the cap height, every side a
+    stem thick.
+  - ¶ has a face cut into its head: round eyes and a smile.
+  - The two-storey a of ss01 is spaced like Jost's again: 1.002 gave it about 95 units too much on its right.
+
 2026-10-23 (eatingVoltage) eV Sans 1.002
   - Bold is lighter: it is 1.001's Medium, unchanged in shape, spacing and kerning, now named Bold. 1.001's
     Bold was too heavy and is gone, and with it the Medium; eV Sans has three weights.
